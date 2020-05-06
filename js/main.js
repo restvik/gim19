@@ -3,9 +3,6 @@
 	
 	'use strict';
 
-	console.log('Привет restvik!');
-
-
 	var isMobile = {
 		Android: function() {
 			return navigator.userAgent.match(/Android/i);
